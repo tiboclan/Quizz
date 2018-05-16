@@ -1,2 +1,2 @@
 # Quizz
-Quizz that was created as a course assigment 20 years ago by me at 16 years old
+Quizz that was created as a course assigment 20 years ago
